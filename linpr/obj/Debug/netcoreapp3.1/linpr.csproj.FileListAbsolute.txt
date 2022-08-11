@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.exe
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.deps.json
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.runtimeconfig.json
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.runtimeconfig.dev.json
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.dll
+C:\Users\oksyp\repos\linpr\linpr\bin\Debug\netcoreapp3.1\linpr.pdb
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.AssemblyInfo.cs
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.dll
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.pdb
+C:\Users\oksyp\repos\linpr\linpr\obj\Debug\netcoreapp3.1\linpr.genruntimeconfig.cache
